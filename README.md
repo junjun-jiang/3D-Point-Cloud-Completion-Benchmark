@@ -1,7 +1,13 @@
 # 3D-Point-Cloud-Completion-Benchmark
 A list of 3D point cloud completion resources collected by [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun).
 
-#### Traditional methods
+#### Traditional methods (参考PCN: Point Completion Network)
+
+###### Geometry-based methods
+
+- **[方法简写]** 论文题目, 出处, 第一作者 et al. [[PDF]](地址)[[Code]](地址)   参考下面的PCN论文写法。
+- 
+###### Alignment-based methods
 
 #### Deep leanring-based methods
 
@@ -16,5 +22,5 @@ A list of 3D point cloud completion resources collected by [Junjun Jiang](http:/
 #### Databases 
 
 
-#### Evaluation Metrics
+#### Evaluation Metrics (参考Cascaded Refinement Network for Point Cloud Completion with Self-supervision)
 
