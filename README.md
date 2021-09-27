@@ -1,5 +1,5 @@
 # 3D-Point-Cloud-Completion-Benchmark
-A list of 3D point cloud completion resources.
+A list of 3D point cloud completion resources. We try to keep it updated every week or two with the latest papers.
 
 
 ## Datasets
