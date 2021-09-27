@@ -59,7 +59,7 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 - **[SnowflakeNet]** SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer, ICCV2021, P. Xiang et al. [[PDF]](https://arxiv.org/abs/2108.04444)[[Code]](https://github.com/AllenXiangX/SnowflakeNet)
 - **[VE-PCN]** Voxel-based Network for Shape Completion by Leveraging Edge Generation, ICCV 2021, X. Wang et al. [[PDF]](https://arxiv.org/abs/2108.09936)[[Code]](https://github.com/xiaogangw/VE-PCN)
 - **[VRCNet]** Variational Relational Point Completion Network, CVPR2021, L. Pan et al. [[PDF]](https://arxiv.org/abs/2104.10154)[[Code]](https://github.com/paul007pl/VRCNet)
-- **[PMP-Net]** PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths, CVPR2021, X. Wen et al. [[PDF]](https://arxiv.org/abs/2012.03408v1)[[Code]]()
+- **[PMP-Net]** PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths, CVPR2021, X. Wen et al. [[PDF]](https://arxiv.org/abs/2012.03408v1)[[Code]]
 
 ### 2020
 
@@ -69,6 +69,7 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 - **[SFA]** Detail Preserved Point Cloud Completion via Separated Feature Aggregation, ECCV 2020, W. Zhang et al. [[PDF]](https://arxiv.org/abs/2007.02374)[[Code]](https://github.com/XLechter/Detail-Preserved-Point-Cloud-Completion-via-SFA)
 - **[GRNet]** 3D Point Capsule Networks, ECCV2020, H. Xie et al. [[PDF]](https://arxiv.org/abs/2006.03761v1)[[Code]](https://github.com/hzxie/GRNet)
 - **[PCL2PCL]** Unpaired Point Cloud Completion on Real Scans using Adversarial Training, ICLR2020, X. Chen et al. [[PDF]](https://arxiv.org/abs/1904.00069)[[Code]](https://github.com/xuelin-chen/pcl2pcl-gan-pub)
+- **[SA-Net]** Point Cloud Completion by Skip-attention Network with Hierarchical Folding, CVPR2020, X. Wen et al. [[PDF]](https://arxiv.org/abs/2005.03871)[[Code]]
 
 
 ### 2019
