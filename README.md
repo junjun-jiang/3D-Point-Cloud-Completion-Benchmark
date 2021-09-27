@@ -27,12 +27,15 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 
 - **[Shape-Inversion]** Unsupervised 3D Shape Completion through GAN Inversion, CVPR2021,J. Zhang et al. [[PDF]](https://arxiv.org/abs/2104.13366)[[Code]](https://github.com/junzhezhang/shape-inversion)
 - **[ASFM-Net]** ASFM-Net: Asymmetrical Siamese Feature Matching Network for Point Completion,  ACM MM2021, Y. Xia et al. [[PDF]](https://arxiv.org/abs/2104.09587)[[Code]]( https://github.com/Yan-Xia/ASFM-Net)
+- **[PoinTr]** PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers, ICCV 2021, X. Yu et al. [[PDF]](https://arxiv.org/abs/2108.08839)[[Code]](https://github.com/yuxumin/PoinTr)
 
 ### 2020
 
 - **[PF-Net]** PF-Net: Point Fractal Network for 3D Point Cloud Completion, CVPR2020, Z. Huang et al. [[PDF]](https://arxiv.org/abs/2003.00410v1)[[Code]](https://github.com/zztianzz/PF-Net-Point-Fractal-Network)
 - **[CRN]** Cascaded Refinement Network for Point Cloud Completion with Self-supervision, CVPR2020, X. Wang et al. [[PDF]](https://arxiv.org/abs/2010.08719v1)[[Code]](https://github.com/xiaogangw/cascaded-point-completion)
 - **[MSN]** Morphing and Sampling Network for Dense Point Cloud Completion, AAAI2020, M. Liu et al. [[PDF]](https://arxiv.org/abs/1912.00280)[[Code]](https://github.com/TheoDEPRELLE/MSN-Point-Cloud-Completion)
+- **[SFA]** Detail Preserved Point Cloud Completion via Separated Feature Aggregation, ECCV 2020, W. Zhang et al. [[PDF]](https://arxiv.org/abs/2007.02374)[[Code]](https://github.com/XLechter/Detail-Preserved-Point-Cloud-Completion-via-SFA)
+- **[GRNet]** 3D Point Capsule Networks, ECCV2020, H. Xie et al. [[PDF]](https://arxiv.org/abs/2006.03761v1)[[Code]](https://github.com/hzxie/GRNet)
 
 
 ### 2019
