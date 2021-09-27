@@ -5,7 +5,10 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 ## Datasets
 #### Synthetic datasets
 - PCN dataset
+- CRN dataset
 - ShapeNet Benchmark dataset
+    - ShapeNet-55 Benchmark
+    - ShapeNet-34 Benchmark
 - ShapeNet-Core dataset
 - Shapenet-Part dataset
 - Completion3D benchmark dataset
@@ -14,6 +17,9 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
     - ModelNet10 dataset
     - ModelNet40 dataset
 - 3DMatch benchmark dataset
+- S3DIS dataset
+- PF-Net dataset
+- PartNet dataset
 
 #### Real-world datasets
 - KITTI dataset
@@ -23,17 +29,25 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 
 ## Evaluation Metrics
 - Chamfer Distance (CD) 
+    - CD-T
+    - CD-P
+- Unidirectional Chamfer Distance (UCD) 
+- Unidirectional Hausdorff Distance (UHD)
 - Fréchet Point Cloud Distance (FPD)
 - Earth Mover Distance (EMD)
 - Accuracy: Accuracy measures the fraction of points in the output that are matched with the ground truth
 - Completeness: Similar to accuracy, completeness reports the fraction of points in the ground truth that are within a distance threshold to any point in the output.
 - F-score: F-score is calculated as the harmonic average of the accuracy and completeness.
 - Fidelity. Fidelity measures how well the inputs are preserved in the outputs.
+- Fidelity error：Fidelity error is the average distance from each point in the input to its nearest neighbour in the output.
+- Consistency
 - Plausibility. Plausibility is evaluated as the classification accuracy in percentage by a pre-trained PointNet model.
 - Intersection over Union (IoU)
 - JSD: The Jensen-Shannon Divergence between marginal distributions defined in the Euclidean 3D space.
 - Coverage:Coverage is measured as the fraction of the point clouds in B that were matched to point clouds in A.
 - Minimum Matching Distance (MMD)
+    - MMD-EMD
+    - MMD-CD 
 
 ## Papers
 
