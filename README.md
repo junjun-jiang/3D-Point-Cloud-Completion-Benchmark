@@ -5,11 +5,21 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 ## Datasets
 #### Synthetic datasets
 - PCN dataset
-- ShapeNet Benchmark
+- ShapeNet Benchmark dataset
+- ShapeNet-Core dataset
+- Shapenet-Part dataset
 - Completion3D benchmark dataset
+- 3D-EPN dataset
+- ModelNet dataset
+    - ModelNet10 dataset
+    - ModelNet40 dataset
+- 3DMatch benchmark dataset
 
 #### Real-world datasets
 - KITTI dataset
+- ScanNet dataset
+- Matterport3D dataset
+- D-FAUST dataset
 
 ## Evaluation Metrics
 - Chamfer Distance (CD) 
@@ -20,6 +30,10 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 - F-score: F-score is calculated as the harmonic average of the accuracy and completeness.
 - Fidelity. Fidelity measures how well the inputs are preserved in the outputs.
 - Plausibility. Plausibility is evaluated as the classification accuracy in percentage by a pre-trained PointNet model.
+- Intersection over Union (IoU)
+- JSD: The Jensen-Shannon Divergence between marginal distributions defined in the Euclidean 3D space.
+- Coverage:Coverage is measured as the fraction of the point clouds in B that were matched to point clouds in A.
+- Minimum Matching Distance (MMD)
 
 ## Papers
 
