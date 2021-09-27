@@ -11,9 +11,9 @@ A list of 3D point cloud completion resources collected by [Junjun Jiang](http:/
 #### Real-world datasets
 - KITTI dataset
 
-## Evaluation Metrics (参考Cascaded Refinement Network for Point Cloud Completion with Self-supervision)
+## Evaluation Metrics
 - Chamfer Distance (CD) 
-- Fr´echet Point Cloud Distance (FPD)
+- Fr\´echet Point Cloud Distance (FPD)
 - Earth Mover Distance (EMD)
 - Accuracy: Accuracy measures the fraction of points in the output that are matched with the ground truth
 - Completeness: Similar to accuracy, completeness reports the fraction of points in the ground truth that are within a distance threshold to any point in the output.
