@@ -40,7 +40,7 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 
 ### 2018
 - **[PCN]** PCN: Point completion network, 3DV2018, W. Yuan et al. [[PDF]](https://arxiv.org/abs/1808.00671)[[Code]](https://github.com/wentaoyuan/pcn)
-- 
+- **[l-GAN]** Learning Representations and Generative Models for 3D Point Clouds,ICML2018,P. Achlioptas et al. [[PDF]](https://arxiv.org/abs/1707.02392)[[Code]](http://github.com/optas/latent_3d_points)
 
 ### 2017
 
