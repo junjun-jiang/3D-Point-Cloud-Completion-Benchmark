@@ -73,6 +73,8 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 - **[SA-Net]** Point Cloud Completion by Skip-attention Network with Hierarchical Folding, CVPR2020, X. Wen et al. [[PDF]](https://arxiv.org/abs/2005.03871)[[Code]]
 - **[SoftPoolNet]** SoftPoolNet: Shape Descriptor for Point Cloud Completion and Classification, ECCV2020, Y. Wang et al. [[PDF]](https://arxiv.org/abs/2008.07358)[[Code]](https://github.com/wangyida/softpool)
 - **[PointSetVoting]** Point Set Voting for Partial Point Cloud Analysis, arXiv, J. Zhang et al. [[PDF]](https://arxiv.org/abs/2007.04537v1)[[Code]](https://github.com/junming259/PointSetVoting)
+- **[N-DPC]** N-DPC: Dense 3D Point Cloud Completion Based on Improved Multi-Stage Network, ICCPR2020, G. Li et al. [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3436369.3437421)[[Code]]
+- **[3D-GCN]** Convolution in the Cloud: Learning Deformable Kernels in 3D Graph Convolution Networks for Point Cloud Analysis, CVPR2020, Z. Lin et al. [[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Convolution_in_the_Cloud_Learning_Deformable_Kernels_in_3D_Graph_CVPR_2020_paper.pdf)[[Code]](https://github.com/j1a0m0e4sNTU/3dgcn)
 
 
 ### 2019
@@ -83,7 +85,7 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 ### 2018
 - **[PCN]** PCN: Point completion network, 3DV2018, W. Yuan et al. [[PDF]](https://arxiv.org/abs/1808.00671)[[Code]](https://github.com/wentaoyuan/pcn)
 - **[l-GAN]** Learning Representations and Generative Models for 3D Point Clouds, ICML2018,P. Achlioptas et al. [[PDF]](https://arxiv.org/abs/1707.02392)[[Code]](http://github.com/optas/latent_3d_points)
-- **[FoldingNet]** FoldingNet: Point Cloud Auto-encoder via Deep Grid Deformation, CVPR2018, Y. Yang et al. [[PDF]](https://arxiv.org/abs/1712.07262)[[Code]]
+- **[FoldingNet]** FoldingNet: Point Cloud Auto-encoder via Deep Grid Deformation, CVPR2018, Y. Yang et al. [[PDF]](https://arxiv.org/abs/1712.07262)[[Code]](http://www.merl.com/research/license#FoldingNet)
 
 ### 2017
 - **[CNN Complete]** Shape Completion using 3D-Encoder-Predictor CNNs and Shape Synthesis, CVPR2017, A. Dai et al. [[PDF]](https://arxiv.org/abs/1612.00101v2)[[Code]](https://github.com/star-cold/cnncomplete)
