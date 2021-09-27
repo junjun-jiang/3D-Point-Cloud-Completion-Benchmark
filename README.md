@@ -86,6 +86,7 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 - **[PCN]** PCN: Point completion network, 3DV2018, W. Yuan et al. [[PDF]](https://arxiv.org/abs/1808.00671)[[Code]](https://github.com/wentaoyuan/pcn)
 - **[l-GAN]** Learning Representations and Generative Models for 3D Point Clouds, ICML2018,P. Achlioptas et al. [[PDF]](https://arxiv.org/abs/1707.02392)[[Code]](http://github.com/optas/latent_3d_points)
 - **[FoldingNet]** FoldingNet: Point Cloud Auto-encoder via Deep Grid Deformation, CVPR2018, Y. Yang et al. [[PDF]](https://arxiv.org/abs/1712.07262)[[Code]](http://www.merl.com/research/license#FoldingNet)
+- **[AtlasNet]** AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation, CVPR2018, Thibault Groueix et al. [[PDF]](https://arxiv.org/abs/1802.05384)[[Code]](https://github.com/ThibaultGROUEIX/AtlasNet)
 
 ### 2017
 - **[CNN Complete]** Shape Completion using 3D-Encoder-Predictor CNNs and Shape Synthesis, CVPR2017, A. Dai et al. [[PDF]](https://arxiv.org/abs/1612.00101v2)[[Code]](https://github.com/star-cold/cnncomplete)
