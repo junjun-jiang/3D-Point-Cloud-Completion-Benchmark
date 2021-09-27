@@ -25,7 +25,8 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 
 ### 2021
 
--**[Shape-Inversion]** Unsupervised 3D Shape Completion through GAN Inversion, CVPR2021,J. Zhang et al. [[PDF]](https://arxiv.org/abs/2104.13366)[[Code]](https://github.com/junzhezhang/shape-inversion)
+- **[Shape-Inversion]** Unsupervised 3D Shape Completion through GAN Inversion, CVPR2021,J. Zhang et al. [[PDF]](https://arxiv.org/abs/2104.13366)[[Code]](https://github.com/junzhezhang/shape-inversion)
+- **[ASFM-Net]** ASFM-Net: Asymmetrical Siamese Feature Matching Network for Point Completion,  ACM MM2021, Y. Xia et al. [[PDF]](https://arxiv.org/abs/2104.09587)[[Code]]( https://github.com/Yan-Xia/ASFM-Net)
 
 ### 2020
 
@@ -43,7 +44,7 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 - **[l-GAN]** Learning Representations and Generative Models for 3D Point Clouds, ICML2018,P. Achlioptas et al. [[PDF]](https://arxiv.org/abs/1707.02392)[[Code]](http://github.com/optas/latent_3d_points)
 
 ### 2017
--**[CNN Complete]** Shape Completion using 3D-Encoder-Predictor CNNs and Shape Synthesis, CVPR2017, A. Dai et al. [[PDF]](https://arxiv.org/abs/1612.00101v2)[[Code]](https://github.com/star-cold/cnncomplete)
+- **[CNN Complete]** Shape Completion using 3D-Encoder-Predictor CNNs and Shape Synthesis, CVPR2017, A. Dai et al. [[PDF]](https://arxiv.org/abs/1612.00101v2)[[Code]](https://github.com/star-cold/cnncomplete)
 
 ### Before 2017
 
