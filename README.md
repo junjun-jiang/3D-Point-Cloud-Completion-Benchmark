@@ -41,6 +41,8 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 ### 2019
 
 - **[3D Capsule]** 3D Point Capsule Networks, CVPR2019, Y. Zhao et al. [[PDF]](https://arxiv.org/pdf/1812.10775)[[Code]](https://tinyurl.com/yxq2tmv3)
+- **[TopNet]** TopNet: Structural Point Cloud Decoder, CVPR2019, Lyne P. Tchapmi et al. [[PDF]](https://ieeexplore.ieee.org/document/8953650)[[Code]](http:
+//completion3d.stanford.edu)
 
 ### 2018
 - **[PCN]** PCN: Point completion network, 3DV2018, W. Yuan et al. [[PDF]](https://arxiv.org/abs/1808.00671)[[Code]](https://github.com/wentaoyuan/pcn)
