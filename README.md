@@ -25,7 +25,7 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 
 ### 2021
 
--
+-**[Shape-Inversion]** Unsupervised 3D Shape Completion through GAN Inversion, CVPR2021,J. Zhang et al. [[PDF]](https://arxiv.org/abs/2104.13366)[[Code]](https://github.com/junzhezhang/shape-inversion)
 
 ### 2020
 
