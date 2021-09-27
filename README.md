@@ -59,7 +59,8 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 - **[SnowflakeNet]** SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer, ICCV2021, P. Xiang et al. [[PDF]](https://arxiv.org/abs/2108.04444)[[Code]](https://github.com/AllenXiangX/SnowflakeNet)
 - **[VE-PCN]** Voxel-based Network for Shape Completion by Leveraging Edge Generation, ICCV 2021, X. Wang et al. [[PDF]](https://arxiv.org/abs/2108.09936)[[Code]](https://github.com/xiaogangw/VE-PCN)
 - **[VRCNet]** Variational Relational Point Completion Network, CVPR2021, L. Pan et al. [[PDF]](https://arxiv.org/abs/2104.10154)[[Code]](https://github.com/paul007pl/VRCNet)
-- **[PMP-Net]** PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths, CVPR2021, X. Wen et al. [[PDF]](https://arxiv.org/abs/2012.03408v1)[[Code]]
+- **[PMP-Net]** PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths, CVPR2021, X. Wen et al. [[PDF]](https://arxiv.org/abs/2012.03408v1)[[Code]](https://github.com/diviswen/PMP-Net)
+- **[HyperPocket]** HyperPocket: Generative Point Cloud Completion, arXiv, P. Spurek et al. [[PDF]](https://arxiv.org/abs/2102.05973)[[Code]](https://github.com/gmum/3d-point-clouds-autocomplete)
 
 ### 2020
 
@@ -70,12 +71,14 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 - **[GRNet]** 3D Point Capsule Networks, ECCV2020, H. Xie et al. [[PDF]](https://arxiv.org/abs/2006.03761v1)[[Code]](https://github.com/hzxie/GRNet)
 - **[PCL2PCL]** Unpaired Point Cloud Completion on Real Scans using Adversarial Training, ICLR2020, X. Chen et al. [[PDF]](https://arxiv.org/abs/1904.00069)[[Code]](https://github.com/xuelin-chen/pcl2pcl-gan-pub)
 - **[SA-Net]** Point Cloud Completion by Skip-attention Network with Hierarchical Folding, CVPR2020, X. Wen et al. [[PDF]](https://arxiv.org/abs/2005.03871)[[Code]]
+- **[SoftPoolNet]** SoftPoolNet: Shape Descriptor for Point Cloud Completion and Classification, ECCV2020, Y. Wang et al. [[PDF]](https://arxiv.org/abs/2008.07358)[[Code]](https://github.com/wangyida/softpool)
+- **[PointSetVoting]** Point Set Voting for Partial Point Cloud Analysis, arXiv, J. Zhang et al. [[PDF]](https://arxiv.org/abs/2007.04537v1)[[Code]](https://github.com/junming259/PointSetVoting)
 
 
 ### 2019
 
 - **[3D Capsule]** 3D Point Capsule Networks, CVPR2019, Y. Zhao et al. [[PDF]](https://arxiv.org/pdf/1812.10775)[[Code]](https://tinyurl.com/yxq2tmv3)
-- **[TopNet]** TopNet: Structural Point Cloud Decoder, CVPR2019, Lyne P. Tchapmi et al. [[PDF]](https://ieeexplore.ieee.org/document/8953650)[[Code]](http://completion3d.stanford.edu)
+- **[TopNet]** TopNet: Structural Point Cloud Decoder, CVPR2019, Lyne P. Tchapmi et al. [[PDF]](https://ieeexplore.ieee.org/document/8953650)[[Code]]
 
 ### 2018
 - **[PCN]** PCN: Point completion network, 3DV2018, W. Yuan et al. [[PDF]](https://arxiv.org/abs/1808.00671)[[Code]](https://github.com/wentaoyuan/pcn)
