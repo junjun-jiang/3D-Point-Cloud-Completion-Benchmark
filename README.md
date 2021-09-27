@@ -21,7 +21,7 @@ A list of 3D point cloud completion resources collected by [Junjun Jiang](http:/
 - Fidelity. Fidelity measures how well the inputs are preserved in the outputs.
 - Plausibility. Plausibility is evaluated as the classification accuracy in percentage by a pre-trained PointNet model.
 
-## Paper
+## Papers
 
 ### 2021
 
