@@ -1,5 +1,5 @@
 # 3D-Point-Cloud-Completion-Benchmark
-A list of 3D point cloud completion resources collected by [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun).
+A list of 3D point cloud completion resources.
 
 
 ## Datasets
