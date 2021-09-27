@@ -33,11 +33,11 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 
 ### 2019
 
--
+- **[3D Capsule]** 3D Point Capsule Networks, CVPR2019, Yongheng Zhao et al. [[PDF]](https://arxiv.org/pdf/1812.10775)[[Code]](https://tinyurl.com/yxq2tmv3)
 
 ### 2018
 - **[PCN]** PCN: Point completion network, 3DV2018, W. Yuan et al. [[PDF]](https://arxiv.org/abs/1808.00671)[[Code]](https://github.com/wentaoyuan/pcn)
--
+- 
 
 ### 2017
 
