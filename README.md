@@ -9,8 +9,8 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 - ShapeNet Benchmark dataset
     - ShapeNet-55 Benchmark
     - ShapeNet-34 Benchmark
-- ShapeNet-Core dataset
-- Shapenet-Part dataset
+    - ShapeNet-Core dataset
+    - Shapenet-Part dataset
 - Completion3D benchmark dataset
 - 3D-EPN dataset
 - ModelNet dataset
@@ -33,7 +33,8 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
     - CD-P
 - Unidirectional Chamfer Distance (UCD) 
 - Unidirectional Hausdorff Distance (UHD)
-- Fréchet Point Cloud Distance (FPD)
+- Total Mutual Difference (TMD)
+- Fréchet Point Cloud Distance (FPD):FPD evaluates the distribution similarity by the 2-Wasserstein distance between the real and fake Gaussian measured in the feature spaces of the point sets.
 - Earth Mover Distance (EMD)
 - Accuracy: Accuracy measures the fraction of points in the output that are matched with the ground truth
 - Completeness: Similar to accuracy, completeness reports the fraction of points in the ground truth that are within a distance threshold to any point in the output.
@@ -43,11 +44,14 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 - Consistency
 - Plausibility. Plausibility is evaluated as the classification accuracy in percentage by a pre-trained PointNet model.
 - Intersection over Union (IoU)
+- Mean Intersection over Union(mIoU)
 - JSD: The Jensen-Shannon Divergence between marginal distributions defined in the Euclidean 3D space.
-- Coverage:Coverage is measured as the fraction of the point clouds in B that were matched to point clouds in A.
-- Minimum Matching Distance (MMD)
+- Coverage(COV):Coverage  measures the fraction of point clouds in the reference set that is matched to at least one point cloud in the generated set. For each point cloud in the generated set, its nearest neighbor in the reference set is marked as a match.
+- Minimum Matching Distance (MMD):MMD is proposed to complement coverage as a metric that measures quality.For each point cloud in the reference set, the distance to its nearest neighbor in the generated set is computed and averaged.
     - MMD-EMD
     - MMD-CD 
+- Point Moving Distance(PMD):minimize the sum of all displacement vector
+
 
 ## Papers
 
