@@ -7,10 +7,9 @@ A list of 3D point cloud completion resources collected by [Junjun Jiang](http:/
 - PCN dataset
 - ShapeNet Benchmark
 - Completion3D benchmark dataset
-- KITTI dataset
 
 #### Real-world datasets
-
+- KITTI dataset
 
 ## Evaluation Metrics (参考Cascaded Refinement Network for Point Cloud Completion with Self-supervision)
 - Chamfer Distance (CD) 
