@@ -23,6 +23,7 @@ Point Cloud Completion, AAAI2021, D. Zong et al. [[PDF]](https://www.aaai.org/AA
 - **[Deep Learning]** Point Cloud Completion by Deep Learning, publication 2021, R Kossat  [[PDF]](https://arxiv.org/abs/2012.10412)[[Code]]
 - **[Self-driving]** An Efficient Deep Learning Approach Using Improved Generative Adversarial Networks for Incomplete Information Completion of Self-driving, arXiv, J. Tu et al. [[PDF]](https://arxiv.org/abs/2109.02629)[[Code]]
 - **[Deco]** Denoise and Contrast for Category Agnostic Shape Completion, CVPR2021, A. Alliegro et al. [[PDF]](https://arxiv.org/abs/2103.16671)[[Code]](https://github.com/antoalli/Deco)
+- **[Deco Supplementary]** Denoise and Contrast for Category Agnostic Shape Completion Supplementary Material, CVPR2021, Julian Chibane et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Alliegro_Denoise_and_Contrast_CVPR_2021_supplemental.pdf)[[Code]]
 - **[PU-GCN]** PU-GCN: Point Cloud Upsampling using Graph Convolutional Networks, CVPR2021, G. Qian et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Qian_PU-GCN_Point_Cloud_Upsampling_Using_Graph_Convolutional_Networks_CVPR_2021_paper.pdf)[[Code]](https://github.com/guochengqian/PU-GCN)
 - **[TransSC]** TransSC: Transformer-based Shape Completion for Grasp Evaluation, arXiv, W. Chen et al. [[PDF]](https://arxiv.org/abs/2107.00511)[[Code]]
 
@@ -49,7 +50,9 @@ Point Cloud Completion, AAAI2021, D. Zong et al. [[PDF]](https://www.aaai.org/AA
 - **[O-CNN]** Deep Octree-based CNNs with Output-Guided Skip Connections for 3D Shape and Scene Completion, CVPRW2020, PS. Wang et al. [[PDF]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w17/Wang_Deep_Octree-Based_CNNs_With_Output-Guided_Skip_Connections_for_3D_Shape_CVPRW_2020_paper.pdf)[[Code]](https://github.com/Microsoft/O-CNN)
 - **[S3CNet]** S3CNet: A Sparse Semantic Scene Completion Network for LiDAR Point Clouds, CRL2020, R. Cheng et al. [[PDF]](https://arxiv.org/abs/2012.09242)[[Code]]
 - **[Multi-View Consistent Inference]** 3D Shape Completion with Multi-View Consistent Inference, AAAI2020, Tao Hu et al. [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/6734)[[Code]]
+- **[Geometry-Image Representation ]** Learning geometry-image representation for 3D point cloud generation, arXiv, L. Wang et al. [[PDF]](https://arxiv.org/abs/2011.14289)[[Code]]
 - **[]** , CVPR2020, Julian Chibane et al. [[PDF]]()[[Code]]
+
 
 
 
@@ -62,6 +65,9 @@ Point Cloud Completion, AAAI2021, D. Zong et al. [[PDF]](https://www.aaai.org/AA
 - **[Multi-Angle Point Cloud-VAE]** Multi-Angle Point Cloud-VAE: Unsupervised Feature Learning for 3D Point Clouds From Multiple Angles by Joint Self-Reconstruction and Half-to-Half Prediction, ICCV2019, Z. Han et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9010063)[[Code]]
 - **[Point-Cloud-Shape-Completion]** High Fidelity Semantic Shape Completion for Point Clouds using Latent Optimization, WACV2019, S. Agrawal et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658987)[[Code]](https://github.com/shubhamag/point-cloud-shape-completion)
 - **[Render4Completion]** Render4Completion: Synthesizing Multi-View Depth Maps for 3D Shape Completion, ICCV2019, T. Hu et al. [[PDF]](https://openaccess.thecvf.com/content_ICCVW_2019/papers/GMDL/Hu_Render4Completion_Synthesizing_Multi-View_Depth_Maps_for_3D_Shape_Completion_ICCVW_2019_paper.pdf)[[Code]]
+- **[ShapeCompletion3DTracking]** Leveraging Shape Completion for 3D Siamese Tracking, CVPR2019, Silvio Giancola et al. [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Giancola_Leveraging_Shape_Completion_for_3D_Siamese_Tracking_CVPR_2019_paper.pdf)[[Code]](https://github.com/SilvioGiancola/ShapeCompletion3DTracking)
+- **[PU-GAN]** PU-GAN: a Point Cloud Upsampling Adversarial Network, ICCV2019, R. Li et al. [[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_PU-GAN_A_Point_Cloud_Upsampling_Adversarial_Network_ICCV_2019_paper.pdf)[[Code]](https://github.com/liruihui/PU-GAN)
+
 
 
 ### 2018
