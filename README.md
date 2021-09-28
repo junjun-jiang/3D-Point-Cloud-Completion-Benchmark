@@ -16,8 +16,9 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 - **[FinerPCN]** FinerPCN: High fidelity point cloud completion network using pointwise
 convolution, Neucom2021, Y. Chang et al. [[PDF]](https://www.researchgate.net/profile/Yakun-Chang/publication/352854310_FinerPCN_High_Fidelity_Point_Cloud_Completion_Network_Using_Pointwise_Convolution/links/60ff785e0c2bfa282a02f679/FinerPCN-High-Fidelity-Point-Cloud-Completion-Network-Using-Pointwise-Convolution.pdf)[[Code]]
 - **[ASHF-Net]** ASHF-Net: Adaptive Sampling and Hierarchical Folding Network for Robust
-Point Cloud Completion, CVPR2020, D. Zong et al. [[PDF]](https://www.aaai.org/AAAI21Papers/AAAI-5154.ZongD.pdf)[[Code]]
-
+Point Cloud Completion, AAAI2021, D. Zong et al. [[PDF]](https://www.aaai.org/AAAI21Papers/AAAI-5154.ZongD.pdf)[[Code]]
+- **[3D Grid Transformation]** 3D Grid Transformation Network For Point Cloud Completion, ICIP2021, X. Deng et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506234)[[Code]]
+- **[LRA-Net]** LRA-Net: local region attention network for 3D point cloud completion, ICMV2021, H. Wu et al. [[PDF]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11605/1160519/LRA-Net--local-region-attention-network-for-3D-point/10.1117/12.2586422.short)[[Code]]
 ### 2020
 
 - **[PF-Net]** PF-Net: Point Fractal Network for 3D Point Cloud Completion, CVPR2020, Z. Huang et al. [[PDF]](https://arxiv.org/abs/2003.00410v1)[[Code]](https://github.com/zztianzz/PF-Net-Point-Fractal-Network)
@@ -32,7 +33,8 @@ Point Cloud Completion, CVPR2020, D. Zong et al. [[PDF]](https://www.aaai.org/AA
 - **[N-DPC]** N-DPC: Dense 3D Point Cloud Completion Based on Improved Multi-Stage Network, ICCPR2020, G. Li et al. [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3436369.3437421)[[Code]]
 - **[3D-GCN]** Convolution in the Cloud: Learning Deformable Kernels in 3D Graph Convolution Networks for Point Cloud Analysis, CVPR2020, Z. Lin et al. [[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Convolution_in_the_Cloud_Learning_Deformable_Kernels_in_3D_Graph_CVPR_2020_paper.pdf)[[Code]](https://github.com/j1a0m0e4sNTU/3dgcn)
 - **[IF-Net]** Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion, CVPR2020, Julian Chibane et al. [[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chibane_Implicit_Functions_in_Feature_Space_for_3D_Shape_Reconstruction_and_CVPR_2020_paper.pdf)[[Code]](https://github.com/jchibane/if-net)
-- 
+- **[Sparse-to-Dense]** Sparse-to-Dense Multi-Encoder Shape Completion of Unstructured Point Cloud, IEEE2020, Y. Peng et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8990130)[[Code]]
+- **[SAUM]** SAUM: Symmetry-Aware Upsampling Module for Consistent Point Cloud Completion, ACCV2020, Hyeontae Son et al. [[PDF]](https://openaccess.thecvf.com/content/ACCV2020/papers/Son_SAUM_Symmetry-Aware_Upsampling_Module_for_Consistent_Point_Cloud_Completion_ACCV_2020_paper.pdf)[[Code]](https://github.com/countywest/SAUM)
 
 ### 2019
 
