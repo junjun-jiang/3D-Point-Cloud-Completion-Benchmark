@@ -21,6 +21,11 @@ Point Cloud Completion, AAAI2021, D. Zong et al. [[PDF]](https://www.aaai.org/AA
 - **[LRA-Net]** LRA-Net: local region attention network for 3D point cloud completion, ICMV2021, H. Wu et al. [[PDF]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11605/1160519/LRA-Net--local-region-attention-network-for-3D-point/10.1117/12.2586422.short)[[Code]]
 - **[PC-RGNN]** PC-RGNN: Point Cloud Completion and Graph Neural Network for 3D Object Detection, AAAI 2021, Y. Zhang et al. [[PDF]](https://arxiv.org/abs/2012.10412)[[Code]]
 - **[Deep Learning]** Point Cloud Completion by Deep Learning, publication 2021, R Kossat  [[PDF]](https://arxiv.org/abs/2012.10412)[[Code]]
+- **[Self-driving]** An Efficient Deep Learning Approach Using Improved Generative Adversarial Networks for Incomplete Information Completion of Self-driving, arXiv, J. Tu et al. [[PDF]](https://arxiv.org/abs/2109.02629)[[Code]]
+- **[Deco]** Denoise and Contrast for Category Agnostic Shape Completion, CVPR2021, A. Alliegro et al. [[PDF]](https://arxiv.org/abs/2103.16671)[[Code]](https://github.com/antoalli/Deco)
+- **[PU-GCN]** PU-GCN: Point Cloud Upsampling using Graph Convolutional Networks, CVPR2021, G. Qian et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Qian_PU-GCN_Point_Cloud_Upsampling_Using_Graph_Convolutional_Networks_CVPR_2021_paper.pdf)[[Code]](https://github.com/guochengqian/PU-GCN)
+- **[TransSC]** TransSC: Transformer-based Shape Completion for Grasp Evaluation, arXiv, W. Chen et al. [[PDF]](https://arxiv.org/abs/2107.00511)[[Code]]
+
 
 
 
@@ -43,7 +48,9 @@ Point Cloud Completion, AAAI2021, D. Zong et al. [[PDF]](https://www.aaai.org/AA
 - **[Multi-resolution Dense Network]** Multi-resolution Dense Network for Point Cloud Completion, EITCE2020, S. Chen et al. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3443467.3443820)[[Code]]
 - **[O-CNN]** Deep Octree-based CNNs with Output-Guided Skip Connections for 3D Shape and Scene Completion, CVPRW2020, PS. Wang et al. [[PDF]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w17/Wang_Deep_Octree-Based_CNNs_With_Output-Guided_Skip_Connections_for_3D_Shape_CVPRW_2020_paper.pdf)[[Code]](https://github.com/Microsoft/O-CNN)
 - **[S3CNet]** S3CNet: A Sparse Semantic Scene Completion Network for LiDAR Point Clouds, CRL2020, R. Cheng et al. [[PDF]](https://arxiv.org/abs/2012.09242)[[Code]]
+- **[Multi-View Consistent Inference]** 3D Shape Completion with Multi-View Consistent Inference, AAAI2020, Tao Hu et al. [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/6734)[[Code]]
 - **[]** , CVPR2020, Julian Chibane et al. [[PDF]]()[[Code]]
+
 
 
 ### 2019
@@ -52,7 +59,10 @@ Point Cloud Completion, AAAI2021, D. Zong et al. [[PDF]](https://www.aaai.org/AA
 - **[TopNet]** TopNet: Structural Point Cloud Decoder, CVPR2019, Lyne P. Tchapmi et al. [[PDF]](https://ieeexplore.ieee.org/document/8953650)[[Code]](https://github.com/lynetcha/completion3d)
 - **[2D-3D]** Learning Joint 2D-3D Representations for Depth Completion, ICCV2019, Y. Chen et al. [[PDF]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Learning_Joint_2D-3D_Representations_for_Depth_Completion_ICCV_2019_paper.pdf)[[Code]]
 - **[RL-GAN-Net]** RL-GAN-Net: A Reinforcement Learning Agent Controlled GAN Network for Real-Time Point Cloud Shape Completion, CVPR2019, Muhammad Sarmad et al. [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sarmad_RL-GAN-Net_A_Reinforcement_Learning_Agent_Controlled_GAN_Network_for_Real-Time_CVPR_2019_paper.pdf)[[Code]](https://github.com/iSarmad/RL-GAN-Net)
-- 
+- **[Multi-Angle Point Cloud-VAE]** Multi-Angle Point Cloud-VAE: Unsupervised Feature Learning for 3D Point Clouds From Multiple Angles by Joint Self-Reconstruction and Half-to-Half Prediction, ICCV2019, Z. Han et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9010063)[[Code]]
+- **[Point-Cloud-Shape-Completion]** High Fidelity Semantic Shape Completion for Point Clouds using Latent Optimization, WACV2019, S. Agrawal et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658987)[[Code]](https://github.com/shubhamag/point-cloud-shape-completion)
+- **[Render4Completion]** Render4Completion: Synthesizing Multi-View Depth Maps for 3D Shape Completion, ICCV2019, T. Hu et al. [[PDF]](https://openaccess.thecvf.com/content_ICCVW_2019/papers/GMDL/Hu_Render4Completion_Synthesizing_Multi-View_Depth_Maps_for_3D_Shape_Completion_ICCVW_2019_paper.pdf)[[Code]]
+
 
 ### 2018
 - **[PCN]** PCN: Point completion network, 3DV2018, W. Yuan et al. [[PDF]](https://arxiv.org/abs/1808.00671)[[Code]](https://github.com/wentaoyuan/pcn)
@@ -62,10 +72,12 @@ Point Cloud Completion, AAAI2021, D. Zong et al. [[PDF]](https://www.aaai.org/AA
 - **[Single-View]** Learning Shape Priors for Single-View 3D Completion and Reconstruction, ECCV2018, J. Wu et al. [[PDF]](https://arxiv.org/abs/1809.05068v1)[[Code]]
 - **[Daml-Shape-Completion]** Learning 3D Shape Completion from Laser Scan Data with Weak Supervision, CVPR2018, David Stutz et al. [[PDF]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Stutz_Learning_3D_Shape_CVPR_2018_paper.pdf)[[Code]](https://github.com/davidstutz/daml-shape-completion)
 - **[ScanComplete]** ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans, CVPR2018, A. Dai et al. [[PDF]](https://arxiv.org/abs/1712.10215v2)[[Code]]
+- 
 
 ### 2017
 - **[CNN Complete]** Shape Completion using 3D-Encoder-Predictor CNNs and Shape Synthesis, CVPR2017, A. Dai et al. [[PDF]](https://arxiv.org/abs/1612.00101v2)[[Code]](https://github.com/star-cold/cnncomplete)
 - **[Shape-controllable]** Shape-controllable geometry completion for point cloud models, Vis Compu2017, L. Yang et al. [[PDF]](https://link.springer.com/article/10.1007/s00371-016-1208-1)[[Code]]
+- **[High-Resolution]** High-Resolution Shape Completion Using Deep Neural Networks for Global Structure and Local Geometry Inference, ICCV2017, X. Han et al. [[PDF]](https://arxiv.org/abs/1709.07599v1)[[Code]]
 
 ### Before 2017
 
