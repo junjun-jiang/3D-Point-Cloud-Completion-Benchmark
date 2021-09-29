@@ -73,14 +73,28 @@ Point Cloud Completion, AAAI2021, D. Zong et al. [[PDF]](https://www.aaai.org/AA
 
 
 ### 2017
+
 - **[CNN Complete]** Shape Completion using 3D-Encoder-Predictor CNNs and Shape Synthesis, CVPR2017, A. Dai et al. [[PDF]](https://arxiv.org/abs/1612.00101v2)[[Code]](https://github.com/star-cold/cnncomplete)
 - **[Shape-controllable]** Shape-controllable geometry completion for point cloud models, Vis Compu2017, L. Yang et al. [[PDF]](https://link.springer.com/article/10.1007/s00371-016-1208-1)[[Code]]
 - **[High-Resolution]** High-Resolution Shape Completion Using Deep Neural Networks for Global Structure and Local Geometry Inference, ICCV2017, X. Han et al. [[PDF]](https://arxiv.org/abs/1709.07599v1)[[Code]]
+- **[Quadrangulated Patches]** Learning quadrangulated patches for 3D shape parameterization and completion, 3DV2017, K. Sarkar et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8374592)[[Code]]
+- **[Automatic Object Shape Completion]** Automatic Object Shape Completion from 3D Point Clouds for Object Manipulation, ICCV2017, R. Figueiredo et al. [[PDF]](https://www.scitepress.org/papers/2017/61700/61700.pdf)[[Code]]
+- **[PointSetGeneration]** A Point Set Generation Network for 3D Object Reconstruction from a Single Image, CVPR2017, H. Fan et al. [[PDF]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fan_A_Point_Set_CVPR_2017_paper.pdf)[[Code]](https://github.com/fanhqme/PointSetGeneration)
 
 
 ### Before 2017
--**[Example-Based]** Example-Based 3D Scan Completion, ESGP2005, M. Pauly et al. [[PDF]](http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/shape_completion/paper_docs/shape_completion_sgp_05.pdf)[[Code]]
+
+- **[Heuristic 3D Object Shape Completion]** Heuristic 3D Object Shape Completion based on Symmetry and Scene Context, IROS2016, D. Schiebener et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7759037)[[Code]]
+- **[Single RGBD Image]** Shape Completion from a Single RGBD Image,IEEE TVCG2016, D. Li et al. [[PDF]](https://eprints.whiterose.ac.uk/134259/1/TianjiaShao_ShapeCompletion_tvcg.pdf)[[Code]]
+- **[3D ShapeNets]** 3D ShapeNets: A Deep Representation for Volumetric Shapes, CVPR2015, Z. Wu et al. [[PDF]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wu_3D_ShapeNets_A_2015_CVPR_paper.pdf)[[Code]]
+- **[Data-driven structual priors]** Data-driven structural priors for shape completion,ACM Transactions on Graphics2015,M. Sung et al. [[PDF]](https://dl.acm.org/doi/pdf/10.1145/2816795.2818094)[[Code]]
+- **[3D-PatchMatch]** 3D-PatchMatch: An optimization algorithm for point cloud completion, ICSDM2015, Z. Cai et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7298044)[[Code]]
+- **[3D Aware Correction and Completion]** 3D Aware Correction and Completion of Depth Maps in Piecewise Planar Scenes, ACCV2014, A. K. Thabet et al. [[PDF]](https://repository.kaust.edu.sa/bitstream/handle/10754/556148/3D%20Aware%20Correction%20and%20Completion%20of%20Depth%20Maps%20in%20Piecewise%20Planar%20Scenes.pdf?sequence=1&isAllowed=y)[[Code]]
+- **[Multiple Views and Multiple Passages]** Automatic Update and Completion of Occluded Regions for Accurate 3D Urban Cartography by combining Multiple Views and Multiple Passages, ICPRAM2013, A. K. Aijazi et al. [[PDF]](https://www.scitepress.org/papers/2013/41827/41827.pdf)[[Code]]
+- **[Example-Based]** Example-Based 3D Scan Completion, ESGP2005, M. Pauly et al. [[PDF]](http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/shape_completion/paper_docs/shape_completion_sgp_05.pdf)[[Code]]
 - **[SCAPE]** SCAPE: Shape Completion and Animation of People, ACM2005, D. Anguelov et al. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=06E690F9293522101838A0A88E98EDD6?doi=10.1.1.77.5182&rep=rep1&type=pdf)[[Code]]
+- **[Non-parametric]** Non-parametric 3D Surface Completion , 3DIM2005, Toby P. Breckon et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1443293)[[Code]]
+
 
 
 ## Datasets
