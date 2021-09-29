@@ -77,9 +77,10 @@ Point Cloud Completion, AAAI2021, D. Zong et al. [[PDF]](https://www.aaai.org/AA
 - **[Shape-controllable]** Shape-controllable geometry completion for point cloud models, Vis Compu2017, L. Yang et al. [[PDF]](https://link.springer.com/article/10.1007/s00371-016-1208-1)[[Code]]
 - **[High-Resolution]** High-Resolution Shape Completion Using Deep Neural Networks for Global Structure and Local Geometry Inference, ICCV2017, X. Han et al. [[PDF]](https://arxiv.org/abs/1709.07599v1)[[Code]]
 
-### Before 2017
 
--
+### Before 2017
+-**[Example-Based]** Example-Based 3D Scan Completion, ESGP2005, M. Pauly et al. [[PDF]](http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/shape_completion/paper_docs/shape_completion_sgp_05.pdf)[[Code]]
+- **[SCAPE]** SCAPE: Shape Completion and Animation of People, ACM2005, D. Anguelov et al. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=06E690F9293522101838A0A88E98EDD6?doi=10.1.1.77.5182&rep=rep1&type=pdf)[[Code]]
 
 
 ## Datasets
