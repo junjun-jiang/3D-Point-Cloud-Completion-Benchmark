@@ -93,7 +93,8 @@ Point Cloud Completion, AAAI2021, D. Zong et al. [[PDF]](https://www.aaai.org/AA
 - **[Multiple Views and Multiple Passages]** Automatic Update and Completion of Occluded Regions for Accurate 3D Urban Cartography by combining Multiple Views and Multiple Passages, ICPRAM2013, A. K. Aijazi et al. [[PDF]](https://www.scitepress.org/papers/2013/41827/41827.pdf)[[Code]]
 - **[Example-Based]** Example-Based 3D Scan Completion, ESGP2005, M. Pauly et al. [[PDF]](http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/shape_completion/paper_docs/shape_completion_sgp_05.pdf)[[Code]]
 - **[SCAPE]** SCAPE: Shape Completion and Animation of People, ACM2005, D. Anguelov et al. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=06E690F9293522101838A0A88E98EDD6?doi=10.1.1.77.5182&rep=rep1&type=pdf)[[Code]]
-- **[Non-parametric]** Non-parametric 3D Surface Completion , 3DIM2005, Toby P. Breckon et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1443293)[[Code]]
+- **[Geometry Completion]** Geometry completion and detail generation by texture synthesis, The Visual Computer2005, M.X. Nguyen et al.[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.59.7915&rep=rep1&type=pdf)[[Code]]
+- **[Non-parametric]** Non-parametric 3D Surface Completion, 3DIM2005, Toby P. Breckon et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1443293)[[Code]]
 
 
 
