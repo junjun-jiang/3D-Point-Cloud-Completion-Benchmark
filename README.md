@@ -52,8 +52,6 @@ Point Cloud Completion, AAAI2021, D. Zong et al. [[PDF]](https://www.aaai.org/AA
 - **[Multi-View Consistent Inference]** 3D Shape Completion with Multi-View Consistent Inference, AAAI2020, Tao Hu et al. [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/6734)[[Code]]
 
 
-
-
 ### 2019
 
 - **[3D Capsule]** 3D Point Capsule Networks, CVPR2019, Y. Zhao et al. [[PDF]](https://arxiv.org/pdf/1812.10775)[[Code]](https://tinyurl.com/yxq2tmv3)
