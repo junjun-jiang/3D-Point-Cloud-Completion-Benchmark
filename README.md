@@ -25,8 +25,6 @@ Point Cloud Completion, AAAI2021, D. Zong et al. [[PDF]](https://www.aaai.org/AA
 - **[FinerPCN]** FinerPCN: High fidelity point cloud completion network using pointwise
 convolution, Neucom2021, Y. Chang et al. [[PDF]](https://www.researchgate.net/profile/Yakun-Chang/publication/352854310_FinerPCN_High_Fidelity_Point_Cloud_Completion_Network_Using_Pointwise_Convolution/links/60ff785e0c2bfa282a02f679/FinerPCN-High-Fidelity-Point-Cloud-Completion-Network-Using-Pointwise-Convolution.pdf)[[Code]]
 - **[3D Grid Transformation]** 3D Grid Transformation Network For Point Cloud Completion, ICIP2021, X. Deng et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506234)[[Code]]
-- **[LRA-Net]** LRA-Net: local region attention network for 3D point cloud completion, ICMV2021, H. Wu et al. [[PDF]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11605/1160519/LRA-Net--local-region-attention-network-for-3D-point/10.1117/12.2586422.short)[[Code]]
-
 
 
 ### 2020
@@ -60,20 +58,20 @@ convolution, Neucom2021, Y. Chang et al. [[PDF]](https://www.researchgate.net/pr
 
 
 ### 2018
-- **[PCN]** PCN: Point completion network, 3DV2018, W. Yuan et al. [[PDF]](https://arxiv.org/abs/1808.00671)[[Code]](https://github.com/wentaoyuan/pcn)
-- **[Single-View]** Learning Shape Priors for Single-View 3D Completion and Reconstruction, ECCV2018, J. Wu et al. [[PDF]](https://arxiv.org/abs/1809.05068v1)[[Code]]
+
 - **[Daml-Shape-Completion]** Learning 3D Shape Completion from Laser Scan Data with Weak Supervision, CVPR2018, David Stutz et al. [[PDF]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Stutz_Learning_3D_Shape_CVPR_2018_paper.pdf)[[Code]](https://github.com/davidstutz/daml-shape-completion)
 - **[PU-Net]** PU-Net: Point Cloud Upsampling Network, CVPR2018, L. Yu et al. [[PDF]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_PU-Net_Point_Cloud_CVPR_2018_paper.pdf)[[Code]](https://github.com/yulequan/PU-Net)
-
+- **[Single-View]** Learning Shape Priors for Single-View 3D Completion and Reconstruction, ECCV2018, J. Wu et al. [[PDF]](https://arxiv.org/abs/1809.05068v1)[[Code]]
+- **[PCN]** PCN: Point completion network, 3DV2018, W. Yuan et al. [[PDF]](https://arxiv.org/abs/1808.00671)[[Code]](https://github.com/wentaoyuan/pcn)
 
 ### 2017
 
 - **[CNN Complete]** Shape Completion using 3D-Encoder-Predictor CNNs and Shape Synthesis, CVPR2017, A. Dai et al. [[PDF]](https://arxiv.org/abs/1612.00101v2)[[Code]](https://github.com/star-cold/cnncomplete)
-- **[Shape-controllable]** Shape-controllable geometry completion for point cloud models, Vis Compu2017, L. Yang et al. [[PDF]](https://link.springer.com/article/10.1007/s00371-016-1208-1)[[Code]]
-- **[High-Resolution]** High-Resolution Shape Completion Using Deep Neural Networks for Global Structure and Local Geometry Inference, ICCV2017, X. Han et al. [[PDF]](https://arxiv.org/abs/1709.07599v1)[[Code]]
-- **[Quadrangulated Patches]** Learning quadrangulated patches for 3D shape parameterization and completion, 3DV2017, K. Sarkar et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8374592)[[Code]]
-- **[Automatic Object Shape Completion]** Automatic Object Shape Completion from 3D Point Clouds for Object Manipulation, ICCV2017, R. Figueiredo et al. [[PDF]](https://www.scitepress.org/papers/2017/61700/61700.pdf)[[Code]]
 - **[PointSetGeneration]** A Point Set Generation Network for 3D Object Reconstruction from a Single Image, CVPR2017, H. Fan et al. [[PDF]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fan_A_Point_Set_CVPR_2017_paper.pdf)[[Code]](https://github.com/fanhqme/PointSetGeneration)
+- **[High-Resolution]** High-Resolution Shape Completion Using Deep Neural Networks for Global Structure and Local Geometry Inference, ICCV2017, X. Han et al. [[PDF]](https://arxiv.org/abs/1709.07599v1)[[Code]]
+- **[Automatic Object Shape Completion]** Automatic Object Shape Completion from 3D Point Clouds for Object Manipulation, ICCV2017, R. Figueiredo et al. [[PDF]](https://www.scitepress.org/papers/2017/61700/61700.pdf)[[Code]]
+- **[Quadrangulated Patches]** Learning quadrangulated patches for 3D shape parameterization and completion, 3DV2017, K. Sarkar et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8374592)[[Code]]
+- **[Shape-controllable]** Shape-controllable geometry completion for point cloud models, The Visual Computer2017, L. Yang et al. [[PDF]](https://link.springer.com/article/10.1007/s00371-016-1208-1)[[Code]]
 
 
 ### Before 2017
