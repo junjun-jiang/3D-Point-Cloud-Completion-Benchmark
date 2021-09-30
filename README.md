@@ -33,21 +33,18 @@ convolution, Neucom2021, Y. Chang et al. [[PDF]](https://www.researchgate.net/pr
 
 - **[PF-Net]** PF-Net: Point Fractal Network for 3D Point Cloud Completion, CVPR2020, Z. Huang et al. [[PDF]](https://arxiv.org/abs/2003.00410v1)[[Code]](https://github.com/zztianzz/PF-Net-Point-Fractal-Network)
 - **[CRN]** Cascaded Refinement Network for Point Cloud Completion with Self-supervision, CVPR2020, X. Wang et al. [[PDF]](https://arxiv.org/abs/2010.08719v1)[[Code]](https://github.com/xiaogangw/cascaded-point-completion)
-- **[MSN]** Morphing and Sampling Network for Dense Point Cloud Completion, AAAI2020, M. Liu et al. [[PDF]](https://arxiv.org/abs/1912.00280)[[Code]](https://github.com/TheoDEPRELLE/MSN-Point-Cloud-Completion)
+- **[SA-Net]** Point Cloud Completion by Skip-attention Network with Hierarchical Folding, CVPR2020, X. Wen et al. [[PDF]](https://arxiv.org/abs/2005.03871)[[Code]]
+- **[IF-Net]** Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion, CVPR2020, Julian Chibane et al. [[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chibane_Implicit_Functions_in_Feature_Space_for_3D_Shape_Reconstruction_and_CVPR_2020_paper.pdf)[[Code]](https://github.com/jchibane/if-net)
+- **[O-CNN]** Deep Octree-based CNNs with Output-Guided Skip Connections for 3D Shape and Scene Completion, CVPRW2020, PS. Wang et al. [[PDF]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w17/Wang_Deep_Octree-Based_CNNs_With_Output-Guided_Skip_Connections_for_3D_Shape_CVPRW_2020_paper.pdf)[[Code]](https://github.com/Microsoft/O-CNN)
 - **[SFA]** Detail Preserved Point Cloud Completion via Separated Feature Aggregation, ECCV 2020, W. Zhang et al. [[PDF]](https://arxiv.org/abs/2007.02374)[[Code]](https://github.com/XLechter/Detail-Preserved-Point-Cloud-Completion-via-SFA)
 - **[GRNet]** GRNet: Gridding Residual Network for Dense Point Cloud Completion, ECCV2020, H. Xie et al. [[PDF]](https://arxiv.org/abs/2006.03761v1)[[Code]](https://github.com/hzxie/GRNet)
-- **[PCL2PCL]** Unpaired Point Cloud Completion on Real Scans using Adversarial Training, ICLR2020, X. Chen et al. [[PDF]](https://arxiv.org/abs/1904.00069)[[Code]](https://github.com/xuelin-chen/pcl2pcl-gan-pub)
-- **[SA-Net]** Point Cloud Completion by Skip-attention Network with Hierarchical Folding, CVPR2020, X. Wen et al. [[PDF]](https://arxiv.org/abs/2005.03871)[[Code]]
 - **[SoftPoolNet]** SoftPoolNet: Shape Descriptor for Point Cloud Completion and Classification, ECCV2020, Y. Wang et al. [[PDF]](https://arxiv.org/abs/2008.07358)[[Code]](https://github.com/wangyida/softpool)
-- **[PointSetVoting]** Point Set Voting for Partial Point Cloud Analysis, arXiv, J. Zhang et al. [[PDF]](https://arxiv.org/abs/2007.04537v1)[[Code]](https://github.com/junming259/PointSetVoting)
-- **[N-DPC]** N-DPC: Dense 3D Point Cloud Completion Based on Improved Multi-Stage Network, ICCPR2020, G. Li et al. [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3436369.3437421)[[Code]]
-- **[IF-Net]** Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion, CVPR2020, Julian Chibane et al. [[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chibane_Implicit_Functions_in_Feature_Space_for_3D_Shape_Reconstruction_and_CVPR_2020_paper.pdf)[[Code]](https://github.com/jchibane/if-net)
-- **[Sparse-to-Dense]** Sparse-to-Dense Multi-Encoder Shape Completion of Unstructured Point Cloud, IEEE2020, Y. Peng et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8990130)[[Code]]
-- **[SAUM]** SAUM: Symmetry-Aware Upsampling Module for Consistent Point Cloud Completion, ACCV2020, Hyeontae Son et al. [[PDF]](https://openaccess.thecvf.com/content/ACCV2020/papers/Son_SAUM_Symmetry-Aware_Upsampling_Module_for_Consistent_Point_Cloud_Completion_ACCV_2020_paper.pdf)[[Code]](https://github.com/countywest/SAUM)
-- **[Multi-resolution Dense Network]** Multi-resolution Dense Network for Point Cloud Completion, EITCE2020, S. Chen et al. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3443467.3443820)[[Code]]
-- **[O-CNN]** Deep Octree-based CNNs with Output-Guided Skip Connections for 3D Shape and Scene Completion, CVPRW2020, PS. Wang et al. [[PDF]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w17/Wang_Deep_Octree-Based_CNNs_With_Output-Guided_Skip_Connections_for_3D_Shape_CVPRW_2020_paper.pdf)[[Code]](https://github.com/Microsoft/O-CNN)
-- **[S3CNet]** S3CNet: A Sparse Semantic Scene Completion Network for LiDAR Point Clouds, CRL2020, R. Cheng et al. [[PDF]](https://arxiv.org/abs/2012.09242)[[Code]]
+- **[PCL2PCL]** Unpaired Point Cloud Completion on Real Scans using Adversarial Training, ICLR2020, X. Chen et al. [[PDF]](https://arxiv.org/abs/1904.00069)[[Code]](https://github.com/xuelin-chen/pcl2pcl-gan-pub)
+- **[MSN]** Morphing and Sampling Network for Dense Point Cloud Completion, AAAI2020, M. Liu et al. [[PDF]](https://arxiv.org/abs/1912.00280)[[Code]](https://github.com/TheoDEPRELLE/MSN-Point-Cloud-Completion)
 - **[Multi-View Consistent Inference]** 3D Shape Completion with Multi-View Consistent Inference, AAAI2020, Tao Hu et al. [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/6734)[[Code]]
+- **[SAUM]** SAUM: Symmetry-Aware Upsampling Module for Consistent Point Cloud Completion, ACCV2020, Hyeontae Son et al. [[PDF]](https://openaccess.thecvf.com/content/ACCV2020/papers/Son_SAUM_Symmetry-Aware_Upsampling_Module_for_Consistent_Point_Cloud_Completion_ACCV_2020_paper.pdf)[[Code]](https://github.com/countywest/SAUM)
+- **[S3CNet]** S3CNet: A Sparse Semantic Scene Completion Network for LiDAR Point Clouds, arXiv, R. Cheng et al. [[PDF]](https://arxiv.org/abs/2012.09242)[[Code]]
+- **[PointSetVoting]** Point Set Voting for Partial Point Cloud Analysis, arXiv, J. Zhang et al. [[PDF]](https://arxiv.org/abs/2007.04537v1)[[Code]](https://github.com/junming259/PointSetVoting)
 
 
 ### 2019
