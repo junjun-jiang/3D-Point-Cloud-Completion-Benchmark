@@ -5,29 +5,27 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 
 ### 2021
 
-- **[Shape-Inversion]** Unsupervised 3D Shape Completion through GAN Inversion, CVPR2021,J. Zhang et al. [[PDF]](https://arxiv.org/abs/2104.13366)[[Code]](https://github.com/junzhezhang/shape-inversion)
-- **[ASFM-Net]** ASFM-Net: Asymmetrical Siamese Feature Matching Network for Point Completion,  ACM MM2021, Y. Xia et al. [[PDF]](https://arxiv.org/abs/2104.09587)[[Code]]( https://github.com/Yan-Xia/ASFM-Net)
 - **[PoinTr]** PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers, ICCV 2021, X. Yu et al. [[PDF]](https://arxiv.org/abs/2108.08839)[[Code]](https://github.com/yuxumin/PoinTr)
 - **[SnowflakeNet]** SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer, ICCV2021, P. Xiang et al. [[PDF]](https://arxiv.org/abs/2108.04444)[[Code]](https://github.com/AllenXiangX/SnowflakeNet)
 - **[VE-PCN]** Voxel-based Network for Shape Completion by Leveraging Edge Generation, ICCV 2021, X. Wang et al. [[PDF]](https://arxiv.org/abs/2108.09936)[[Code]](https://github.com/xiaogangw/VE-PCN)
+- **[Shape-Inversion]** Unsupervised 3D Shape Completion through GAN Inversion, CVPR2021,J. Zhang et al. [[PDF]](https://arxiv.org/abs/2104.13366)[[Code]](https://github.com/junzhezhang/shape-inversion)
+- **[Deco]** Denoise and Contrast for Category Agnostic Shape Completion, CVPR2021, A. Alliegro et al. [[PDF]](https://arxiv.org/abs/2103.16671)[[Code]](https://github.com/antoalli/Deco)
+- **[Deco Supplementary]** Denoise and Contrast for Category Agnostic Shape Completion Supplementary Material, CVPR2021, Julian Chibane et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Alliegro_Denoise_and_Contrast_CVPR_2021_supplemental.pdf)[[Code]]
+- **[Cycle4Completion]** Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding, CVPR2021, X. Wen et al. [[PDF]](https://arxiv.org/abs/2103.07838)[[Code]](https://github.com/diviswen/Cycle4Completion)
 - **[VRCNet]** Variational Relational Point Completion Network, CVPR2021, L. Pan et al. [[PDF]](https://arxiv.org/abs/2104.10154)[[Code]](https://github.com/paul007pl/VRCNet)
 - **[PMP-Net]** PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths, CVPR2021, X. Wen et al. [[PDF]](https://arxiv.org/abs/2012.03408v1)[[Code]](https://github.com/diviswen/PMP-Net)
-- **[HyperPocket]** HyperPocket: Generative Point Cloud Completion, arXiv, P. Spurek et al. [[PDF]](https://arxiv.org/abs/2102.05973)[[Code]](https://github.com/gmum/3d-point-clouds-autocomplete)
-- **[FinerPCN]** FinerPCN: High fidelity point cloud completion network using pointwise
-convolution, Neucom2021, Y. Chang et al. [[PDF]](https://www.researchgate.net/profile/Yakun-Chang/publication/352854310_FinerPCN_High_Fidelity_Point_Cloud_Completion_Network_Using_Pointwise_Convolution/links/60ff785e0c2bfa282a02f679/FinerPCN-High-Fidelity-Point-Cloud-Completion-Network-Using-Pointwise-Convolution.pdf)[[Code]]
+- **[ASFM-Net]** ASFM-Net: Asymmetrical Siamese Feature Matching Network for Point Completion,  ACM MM2021, Y. Xia et al. [[PDF]](https://arxiv.org/abs/2104.09587)[[Code]]( https://github.com/Yan-Xia/ASFM-Net)
 - **[ASHF-Net]** ASHF-Net: Adaptive Sampling and Hierarchical Folding Network for Robust
 Point Cloud Completion, AAAI2021, D. Zong et al. [[PDF]](https://www.aaai.org/AAAI21Papers/AAAI-5154.ZongD.pdf)[[Code]]
-- **[3D Grid Transformation]** 3D Grid Transformation Network For Point Cloud Completion, ICIP2021, X. Deng et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506234)[[Code]]
-- **[LRA-Net]** LRA-Net: local region attention network for 3D point cloud completion, ICMV2021, H. Wu et al. [[PDF]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11605/1160519/LRA-Net--local-region-attention-network-for-3D-point/10.1117/12.2586422.short)[[Code]]
 - **[PC-RGNN]** PC-RGNN: Point Cloud Completion and Graph Neural Network for 3D Object Detection, AAAI 2021, Y. Zhang et al. [[PDF]](https://arxiv.org/abs/2012.10412)[[Code]]
 - **[Deep Learning]** Point Cloud Completion by Deep Learning, publication 2021, R Kossat  [[PDF]](https://arxiv.org/abs/2012.10412)[[Code]]
 - **[Self-driving]** An Efficient Deep Learning Approach Using Improved Generative Adversarial Networks for Incomplete Information Completion of Self-driving, arXiv, J. Tu et al. [[PDF]](https://arxiv.org/abs/2109.02629)[[Code]]
-- **[Deco]** Denoise and Contrast for Category Agnostic Shape Completion, CVPR2021, A. Alliegro et al. [[PDF]](https://arxiv.org/abs/2103.16671)[[Code]](https://github.com/antoalli/Deco)
-- **[Deco Supplementary]** Denoise and Contrast for Category Agnostic Shape Completion Supplementary Material, CVPR2021, Julian Chibane et al. [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Alliegro_Denoise_and_Contrast_CVPR_2021_supplemental.pdf)[[Code]]
 - **[TransSC]** TransSC: Transformer-based Shape Completion for Grasp Evaluation, arXiv, W. Chen et al. [[PDF]](https://arxiv.org/abs/2107.00511)[[Code]]
-- **[Cycle4Completion]** Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding, CVPR2021, X. Wen et al. [[PDF]](https://arxiv.org/abs/2103.07838)[[Code]](https://github.com/diviswen/Cycle4Completion)
-
-
+- **[HyperPocket]** HyperPocket: Generative Point Cloud Completion, arXiv, P. Spurek et al. [[PDF]](https://arxiv.org/abs/2102.05973)[[Code]](https://github.com/gmum/3d-point-clouds-autocomplete)
+- **[FinerPCN]** FinerPCN: High fidelity point cloud completion network using pointwise
+convolution, Neucom2021, Y. Chang et al. [[PDF]](https://www.researchgate.net/profile/Yakun-Chang/publication/352854310_FinerPCN_High_Fidelity_Point_Cloud_Completion_Network_Using_Pointwise_Convolution/links/60ff785e0c2bfa282a02f679/FinerPCN-High-Fidelity-Point-Cloud-Completion-Network-Using-Pointwise-Convolution.pdf)[[Code]]
+- **[3D Grid Transformation]** 3D Grid Transformation Network For Point Cloud Completion, ICIP2021, X. Deng et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506234)[[Code]]
+- **[LRA-Net]** LRA-Net: local region attention network for 3D point cloud completion, ICMV2021, H. Wu et al. [[PDF]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11605/1160519/LRA-Net--local-region-attention-network-for-3D-point/10.1117/12.2586422.short)[[Code]]
 
 
 
