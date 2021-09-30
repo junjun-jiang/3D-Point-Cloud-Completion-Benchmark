@@ -85,17 +85,15 @@ Point Cloud Completion, AAAI2021, D. Zong et al. [[PDF]](https://www.aaai.org/AA
 ### Before 2017
 
 - **[Heuristic 3D Object Shape Completion]** Heuristic 3D Object Shape Completion based on Symmetry and Scene Context, IROS2016, D. Schiebener et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7759037)[[Code]]
-- **[Single RGBD Image]** Shape Completion from a Single RGBD Image,IEEE TVCG2016, D. Li et al. [[PDF]](https://eprints.whiterose.ac.uk/134259/1/TianjiaShao_ShapeCompletion_tvcg.pdf)[[Code]]
+- **[Single RGBD Image]** Shape Completion from a Single RGBD Image,IEEE TVCG 2016, D. Li et al. [[PDF]](https://eprints.whiterose.ac.uk/134259/1/TianjiaShao_ShapeCompletion_tvcg.pdf)[[Code]]
 - **[3D ShapeNets]** 3D ShapeNets: A Deep Representation for Volumetric Shapes, CVPR2015, Z. Wu et al. [[PDF]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wu_3D_ShapeNets_A_2015_CVPR_paper.pdf)[[Code]]
-- **[Data-driven structual priors]** Data-driven structural priors for shape completion,ACM Transactions on Graphics2015,M. Sung et al. [[PDF]](https://dl.acm.org/doi/pdf/10.1145/2816795.2818094)[[Code]]
+- **[Data-driven structual priors]** Data-driven structural priors for shape completion, ACM TOG2015,M. Sung et al. [[PDF]](https://dl.acm.org/doi/pdf/10.1145/2816795.2818094)[[Code]]
 - **[3D-PatchMatch]** 3D-PatchMatch: An optimization algorithm for point cloud completion, ICSDM2015, Z. Cai et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7298044)[[Code]]
-- **[3D Aware Correction and Completion]** 3D Aware Correction and Completion of Depth Maps in Piecewise Planar Scenes, ACCV2014, A. K. Thabet et al. [[PDF]](https://repository.kaust.edu.sa/bitstream/handle/10754/556148/3D%20Aware%20Correction%20and%20Completion%20of%20Depth%20Maps%20in%20Piecewise%20Planar%20Scenes.pdf?sequence=1&isAllowed=y)[[Code]]
-- **[Multiple Views and Multiple Passages]** Automatic Update and Completion of Occluded Regions for Accurate 3D Urban Cartography by combining Multiple Views and Multiple Passages, ICPRAM2013, A. K. Aijazi et al. [[PDF]](https://www.scitepress.org/papers/2013/41827/41827.pdf)[[Code]]
-- **[Example-Based]** Example-Based 3D Scan Completion, ESGP2005, M. Pauly et al. [[PDF]](http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/shape_completion/paper_docs/shape_completion_sgp_05.pdf)[[Code]]
-- **[SCAPE]** SCAPE: Shape Completion and Animation of People, ACM2005, D. Anguelov et al. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=06E690F9293522101838A0A88E98EDD6?doi=10.1.1.77.5182&rep=rep1&type=pdf)[[Code]]
+- **[3D Aware Correction and Completion]** 3D Aware Correction and Completion of Depth Maps in Piecewise Planar Scenes, ACCV 2014, A. K. Thabet et al. [[PDF]](https://repository.kaust.edu.sa/bitstream/handle/10754/556148/3D%20Aware%20Correction%20and%20Completion%20of%20Depth%20Maps%20in%20Piecewise%20Planar%20Scenes.pdf?sequence=1&isAllowed=y)[[Code]]
+- **[SCAPE]** SCAPE: Shape Completion and Animation of People, ACM TOG2015, D. Anguelov et al. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=06E690F9293522101838A0A88E98EDD6?doi=10.1.1.77.5182&rep=rep1&type=pdf)[[Code]]
 - **[Geometry Completion]** Geometry completion and detail generation by texture synthesis, The Visual Computer2005, M.X. Nguyen et al.[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.59.7915&rep=rep1&type=pdf)[[Code]]
 - **[Non-parametric]** Non-parametric 3D Surface Completion, 3DIM2005, Toby P. Breckon et al. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1443293)[[Code]]
-
+- **[Example-Based]** Example-Based 3D Scan Completion, ESGP2005, M. Pauly et al. [[PDF]]
 
 
 ## Datasets
