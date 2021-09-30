@@ -18,7 +18,7 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 - **[ASHF-Net]** ASHF-Net: Adaptive Sampling and Hierarchical Folding Network for Robust
 Point Cloud Completion, AAAI2021, D. Zong et al. [[PDF]](https://www.aaai.org/AAAI21Papers/AAAI-5154.ZongD.pdf)[[Code]]
 - **[PC-RGNN]** PC-RGNN: Point Cloud Completion and Graph Neural Network for 3D Object Detection, AAAI 2021, Y. Zhang et al. [[PDF]](https://arxiv.org/abs/2012.10412)[[Code]]
-- **[Deep Learning]** Point Cloud Completion by Deep Learning, publication 2021, R Kossat  [[PDF]](https://arxiv.org/abs/2012.10412)[[Code]]
+- **[Deep Learning]** Point Cloud Completion by Deep Learning, publication 2021, R Kossat  [[PDF]](https://publications.cms.bgu.tum.de/theses/2021_Kossat_Mathe.pdf)[[Code]]
 - **[Self-driving]** An Efficient Deep Learning Approach Using Improved Generative Adversarial Networks for Incomplete Information Completion of Self-driving, arXiv, J. Tu et al. [[PDF]](https://arxiv.org/abs/2109.02629)[[Code]]
 - **[TransSC]** TransSC: Transformer-based Shape Completion for Grasp Evaluation, arXiv, W. Chen et al. [[PDF]](https://arxiv.org/abs/2107.00511)[[Code]]
 - **[HyperPocket]** HyperPocket: Generative Point Cloud Completion, arXiv, P. Spurek et al. [[PDF]](https://arxiv.org/abs/2102.05973)[[Code]](https://github.com/gmum/3d-point-clouds-autocomplete)
