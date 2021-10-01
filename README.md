@@ -14,7 +14,7 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 - **[Cycle4Completion]** Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding, CVPR2021, X. Wen et al. [[PDF]](https://arxiv.org/abs/2103.07838)[[Code]](https://github.com/diviswen/Cycle4Completion)
 - **[VRCNet]** Variational Relational Point Completion Network, CVPR2021, L. Pan et al. [[PDF]](https://arxiv.org/abs/2104.10154)[[Code]](https://github.com/paul007pl/VRCNet)
 - **[PMP-Net]** PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths, CVPR2021, X. Wen et al. [[PDF]](https://arxiv.org/abs/2012.03408v1)[[Code]](https://github.com/diviswen/PMP-Net)
-- **[Neural Tangent Kernel Perspective]** Unsupervised Shape Completion via Deep Prior in the Neural Tangent Kernel Perspective, ACM2021, L. Chu et al. [[PDF]](https://arxiv.org/abs/2104.09023)
+- **[Neural Tangent Kernel Perspective]** Unsupervised Shape Completion via Deep Prior in the Neural Tangent Kernel Perspective, ACM TOG2021, L. Chu et al. [[PDF]](https://arxiv.org/abs/2104.09023)
 - **[ASFM-Net]** ASFM-Net: Asymmetrical Siamese Feature Matching Network for Point Completion,  ACM MM2021, Y. Xia et al. [[PDF]](https://arxiv.org/abs/2104.09587)[[Code]]( https://github.com/Yan-Xia/ASFM-Net)
 - **[ASHF-Net]** ASHF-Net: Adaptive Sampling and Hierarchical Folding Network for Robust
 Point Cloud Completion, AAAI2021, D. Zong et al. [[PDF]](https://www.aaai.org/AAAI21Papers/AAAI-5154.ZongD.pdf)[[Code]]
