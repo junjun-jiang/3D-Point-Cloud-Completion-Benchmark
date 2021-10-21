@@ -6,6 +6,7 @@ A list of 3D point cloud completion resources. We try to keep it updated every w
 ### 2021
 
 - **[PoinTr]** PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers, ICCV 2021, X. Yu et al. [[PDF]](https://arxiv.org/abs/2108.08839)[[Code]](https://github.com/yuxumin/PoinTr)
+- **[Progressive Seed Generation]** Progressive Seed Generation Auto-encoder for Unsupervised Point Cloud Learning, ICCV 2021, J. Yang et al. [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Progressive_Seed_Generation_Auto-Encoder_for_Unsupervised_Point_Cloud_Learning_ICCV_2021_paper.pdf)[[Code]]
 - **[RFNet]** RFNet: Recurrent Forward Network for Dense Point Cloud Completion, ICCV 2021, T. Huang et al. [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_RFNet_Recurrent_Forward_Network_for_Dense_Point_Cloud_Completion_ICCV_2021_paper.pdf)[[Code]]
 - **[OcCo]** Unsupervised Point Cloud Pre-training via Occlusion Completion, ICCV 2021, H. Wang et al. [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Unsupervised_Point_Cloud_Pre-Training_via_Occlusion_Completion_ICCV_2021_paper.pdf)[[Code]](https://github.com/hansen7/OcCo)
 - **[SnowflakeNet]** SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer, ICCV2021, P. Xiang et al. [[PDF]](https://arxiv.org/abs/2108.04444)[[Code]](https://github.com/AllenXiangX/SnowflakeNet)
